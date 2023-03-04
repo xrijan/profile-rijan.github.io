@@ -76,6 +76,10 @@ a:hover {
     bottom: 300px;
 }
 
+.mountain {
+    width: 40%;
+}
+
 .profile-img {
     width: 20%;
     margin: 100px auto 0px auto;
