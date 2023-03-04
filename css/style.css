@@ -1,0 +1,148 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin-top: 160px;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    margin-bottom: 0px;
+    color: #A084DC;
+}
+
+h2 {
+    color: #A084DC;
+    margin-top: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+
+hr {
+    border : dotted #439599 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a {
+    color: #A084DC;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+.top-container{
+    background-color: #99FEFF;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: #94B3FD;
+    
+}
+
+
+.bottom-container {
+    background-color: #94DAFF;
+    padding: 50px 0 20px ;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+
+.bottom-cloud {
+    position : absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.profile-img {
+    width: 20%;
+    margin: 100px auto 0px auto;
+}
+
+.profile h2 {
+    margin: 20px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.flutter-img {
+ width: 50%;
+  padding: auto;
+  float: left;
+  margin-left: 30px;
+
+}
+
+.react-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.intro {
+    width: 40%;
+    margin: auto;
+}
+
+.contact-me {
+    padding-bottom: 60px;
+}
+
+.contact-discriptin {
+    width: 40%;
+    margin: auto;
+    margin-bottom: 80px;
+}
+
+
+
+
+.btn {
+    background: #7C83FD;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    margin-bottom: 10%;
+  }
+  
+  .btn:hover {
+    background: #B8B5FF;
+    text-decoration: none;
+  }
+                
+
+.copy-write {
+    color: black;
+}
